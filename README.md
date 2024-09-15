@@ -1,6 +1,8 @@
 # Altitude Analytics ✈️
 
-![DALL·E Landscape Cover](https://github.com/gangula-karthik/Altitude-Analytics/assets/56480632/35813075-f24f-421c-a15a-c0c16f93fdd2)
+<div align="center">
+  <img src="https://github.com/gangula-karthik/Altitude-Analytics/assets/56480632/35813075-f24f-421c-a15a-c0c16f93fdd2" alt="DALL·E Landscape Cover" width="600px">
+</div>
 
 ## Introduction 📢
 Word of Mouth (WOM) significantly influences consumer choices, with 92% of consumers trusting recommendations from friends and family over other forms of advertising. In the airline industry, electronic Word of Mouth (eWOM) has become crucial due to the intangible nature of services offered. This project aims to develop a text classification model to predict whether an airline review is from a promoter 👍, detractor 👎, or passive customer 😐, enabling airlines to enhance their marketing strategies and customer loyalty.
